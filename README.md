@@ -6,3 +6,5 @@ This is the density plot
   
 This is the boxplot  
 ![boxplot](images/boxplot.png)
+
+Adding one more line 
